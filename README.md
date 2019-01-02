@@ -12,7 +12,7 @@
         <tr>
            <th><img src=""> </th>
            <th><img src="https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png"></th>
-           <th><img src="zhanbei521.github.io/1.jpg"></th>
+           <th><img src="https://zhanbei521.github.io/1.jpg"></th>
         </tr>
     </thead>
     <thead>
