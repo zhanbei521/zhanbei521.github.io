@@ -6,11 +6,26 @@
 </head>
 
 <body>
-新闻与活动 
-<img src="zhanbei521.github.io/1.jpg">
+<h1>新闻与活动</h1>
+<table>
+    <thead>
+        <tr>
+           <th><img src=""> </th>
+           <th><img src="https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png"></th>
+           <th><img src="https://www.kasandbox.org/programming-images/animals/kangaroos.png"></th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+           <th><a href="">报道</a></th>
+           <th><a href="">演讲</a></th>
+           <th><a href="">学堂周报</a></th>
+        </tr>
+    </thead>
+</table>
+
 
 <p id="hahahaha">
-< a href="jiaru">报道</ a>
 </p>
 
     
