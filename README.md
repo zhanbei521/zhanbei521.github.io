@@ -7,7 +7,7 @@
 
 <body>
 新闻与活动 
-<img src="https://www.kasandbox.org/programming-images/animals/cheetah.png">
+<img src="zhanbei521.github.io/1.jpg">
 
 <p id="hahahaha">
 < a href="jiaru">报道</ a>
