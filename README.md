@@ -1,7 +1,19 @@
 <html>
 <head>
+<style>
+    
+</style>
 </head>
+
 <body>
-<img src="zhanbei521.github.io/1.jpg">
+新闻与活动 
+<img src="https://www.kasandbox.org/programming-images/animals/cheetah.png">
+
+<p id="hahahaha">
+< a href="jiaru">报道</ a>
+</p>
+
+    
 </body>
+
 </html>
