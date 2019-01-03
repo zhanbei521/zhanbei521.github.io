@@ -14,13 +14,13 @@
                 <th><img src="https://zhanbei521.github.io/1.jpg" width="200" height="200"></th>
              </tr>
         </thead>
-        <tbody>
+        <thead>
              <tr>
-                <td><a href="">报道</a></td>
-                <td><a href="">演讲</a></td>
-                <td><a href="">学堂周报</a></td>
+                <th><a href="">报道</a></th>
+                <th><a href="">演讲</a></th>
+                <th><a href="">学堂周报</a></th>
              </tr>
-        </tbody>
+        </thead>
       </table>
    </body>
 </html>
