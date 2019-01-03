@@ -8,7 +8,7 @@
 <table>
     <thead>
         <tr>
-           <th><img src="https://zhanbei521.github.io/3.jpg" width="200"> </th>
+           <th><img src="https://zhanbei521.github.io/3.jpg" width="200" heigth="200"> </th>
            <th><img src="https://zhanbei521.github.io/2.jpg" width="200"></th>
            <th><img src="https://zhanbei521.github.io/1.jpg" width="200"></th>
         </tr>
