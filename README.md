@@ -8,10 +8,11 @@
 <table>
     <thead>
         <tr>
-           <th><img src="https://zhanbei521.github.io/3.jpg"> </th>
-           <th><img src="https://zhanbei521.github.io/2.jpg"></th>
-           <th><img src="https://zhanbei521.github.io/1.jpg"></th>  
-      </thead>
+           <th><img src="https://zhanbei521.github.io/3.jpg" width="200"> </th>
+           <th><img src="https://zhanbei521.github.io/2.jpg" width="200"></th>
+           <th><img src="https://zhanbei521.github.io/1.jpg" width="200"></th>
+        </tr>
+    </thead>
     <thead>
         <tr>
            <th><a href="">报道</a></th>
@@ -20,6 +21,7 @@
         </tr>
     </thead>
 </table>
+
 
 <p id="hahahaha">
 </p>
