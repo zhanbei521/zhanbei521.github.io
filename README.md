@@ -1,7 +1,7 @@
 <html>
    <head>
       <meta charset="utf-8">
-
+      <tile>
    </head> 
    <body>
      <h1>新闻与活动</h1>
