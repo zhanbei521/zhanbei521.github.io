@@ -11,9 +11,10 @@
            <th><img src="https://zhanbei521.github.io/3.jpg"> </th>
            <th><img src="https://zhanbei521.github.io/2.jpg"></th>
            <th><img src="https://zhanbei521.github.io/1.jpg"></th>
-            <div class=“https://zhanbei521.github.io/3.jpg>
-        </tr>
-    </thead>
+            <style>
+                https://zhanbei521.github.io/3.jpg {width：300xp;height:100px}
+                </style>   
+      </thead>
     <thead>
         <tr>
            <th><a href="">报道</a></th>
