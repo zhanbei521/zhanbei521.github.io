@@ -1,12 +1,6 @@
 <html>
 <head>
 <meta charset="uft-8">
-<style>
- .hahalala{
-    width:200px;
-    height:400px;
-}
-</style>
 </head>
 <body>
 <h1>新闻与活动</h1>
@@ -14,9 +8,9 @@
     <thead>
         <tr>
             <div class="hahalala">
-           <th><img src="https://zhanbei521.github.io/3.jpg"></th>
-           <th><img src="https://zhanbei521.github.io/2.jpg"></th>
-           <th><img src="https://zhanbei521.github.io/1.jpg"></th>
+           <th><img src="https://zhanbei521.github.io/3.jpg" width="200" height="300"></th>
+           <th><img src="https://zhanbei521.github.io/2.jpg" width="200" height="300"></th>
+           <th><img src="https://zhanbei521.github.io/1.jpg" width="200" height="300"></th>
             </div>
         </tr>
     </thead>
