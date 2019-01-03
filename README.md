@@ -8,9 +8,9 @@
     <thead>
         <tr>
             <div class="hahalala">
-           <th><img src="https://zhanbei521.github.io/3.jpg" width="200" height="300"></th>
-           <th><img src="https://zhanbei521.github.io/2.jpg" width="200" height="300"></th>
-           <th><img src="https://zhanbei521.github.io/1.jpg" width="200" height="300"></th>
+           <th><img src="https://zhanbei521.github.io/3.jpg" width="200" height="200"></th>
+           <th><img src="https://zhanbei521.github.io/2.jpg" width="200" height="200"></th>
+           <th><img src="https://zhanbei521.github.io/1.jpg" width="200" height="200"></th>
             </div>
         </tr>
     </thead>
