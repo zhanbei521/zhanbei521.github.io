@@ -1,7 +1,7 @@
 <html>
    <head>
       <meta charset="utf-8">
-      
+      <title>lalala</title>
    </head> 
    <body>
      <h1>新闻与活动</h1>
