@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-    #hahalala{width="200px" heigth="400px"}
+    #hahalala{width:200px; heigth:400px;}
     </style>
 </head>
 
