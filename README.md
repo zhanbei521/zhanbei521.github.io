@@ -10,10 +10,7 @@
         <tr>
            <th><img src="https://zhanbei521.github.io/3.jpg"> </th>
            <th><img src="https://zhanbei521.github.io/2.jpg"></th>
-           <th><img src="https://zhanbei521.github.io/1.jpg"></th>
-            <style>
-                https://zhanbei521.github.io/3.jpg {width：300xp;height:100px}
-                </style>   
+           <th><img src="https://zhanbei521.github.io/1.jpg"></th>  
       </thead>
     <thead>
         <tr>
@@ -24,8 +21,10 @@
     </thead>
 </table>
 
-
-<p id="hahahaha">
+<style>
+.https://zhanbei521.github.io/3.jpg{width：300px；height：100px}  
+</style>
+    <p id="hahahaha">
 </p>
 
     
