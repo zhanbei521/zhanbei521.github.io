@@ -17,11 +17,9 @@
     </thead>
     <thead>
         <tr>
-            <div class="hahala">
            <th><a href="">报道</a></th>
            <th><a href="">演讲</a></th>
            <th><a href="">学堂周报</a></th>
-            </div>
         </tr>
     </thead>
 </table>
