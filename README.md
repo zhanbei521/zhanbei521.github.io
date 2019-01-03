@@ -21,9 +21,7 @@
     </thead>
 </table>
 
-<style>
-.https://zhanbei521.github.io/3.jpg{width：300px；height：100px}  
-</style>
+
     <p id="hahahaha">
 </p>
 
