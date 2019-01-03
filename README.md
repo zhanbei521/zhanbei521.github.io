@@ -2,13 +2,12 @@
 <head>
 <meta charset="uft-8">
 <style>
-.hahalala{
+ .hahalala{
     width:200px;
     height:400px;
 }
 </style>
 </head>
-
 <body>
 <h1>新闻与活动</h1>
 <table>
@@ -29,12 +28,5 @@
         </tr>
     </thead>
 </table>
-
-
-<p id="hahahaha">
-</p>
-
-    
 </body>
-
 </html>
