@@ -1,6 +1,8 @@
 <html>
 <head>
-
+<style>
+    #hahalala{width="200px" heigth="400px"}
+    </style>
 </head>
 
 <body>
@@ -8,9 +10,11 @@
 <table>
     <thead>
         <tr>
-           <th><img src="https://zhanbei521.github.io/3.jpg" width="200" heigth="200"> </th>
-           <th><img src="https://zhanbei521.github.io/2.jpg" width="200" heigth="200"></th>
-           <th><img src="https://zhanbei521.github.io/1.jpg" width="200" heigth=""200></th>
+            <div id="hahalala">
+           <th><img src="https://zhanbei521.github.io/3.jpg"></th>
+           <th><img src="https://zhanbei521.github.io/2.jpg"></th>
+           <th><img src="https://zhanbei521.github.io/1.jpg"></th>
+            </div>
         </tr>
     </thead>
     <thead>
