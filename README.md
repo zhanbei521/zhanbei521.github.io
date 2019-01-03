@@ -2,11 +2,10 @@
 <head>
 <meta charset="uft-8">
     <style>
-        .hahala {
-             top:50px;
-        }
     </style>
 </head>
+    
+    
 <body>
 <h1>新闻与活动</h1>
 <table>
