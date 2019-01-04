@@ -2,6 +2,11 @@
    <head>
       <meta charset="utf-8">
    </head> 
+   <style>
+      .th {
+           position:absolute;
+           z-index:2;
+   </style>
    <body>
      <h1>新闻与活动</h1>
      <table>
@@ -14,9 +19,9 @@
         </thead>
         <thead>
              <tr>
-                <th><a href="">报道</a></th>
-                <th><a href="">演讲</a></th>
-                <th><a href="">学堂周报</a></th>
+                <th class="th"><a href="">报道</a></th>
+                <th class="th"><a href="">演讲</a></th>
+                <th class="th"><a href="">学堂周报</a></th>
              </tr>
         </thead>
       </table>
